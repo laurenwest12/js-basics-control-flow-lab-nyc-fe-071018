@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-function scuberGreetingForFeet (ride) {
+let scuberGreetingForFeet (ride) {
   if (ride <= 400) {
     console.log('This one is on me!');
   } else {
@@ -8,4 +8,4 @@ function scuberGreetingForFeet (ride) {
   }
 }
 
-function scuberGreetingForFeet (199);
+let scuberGreetingForFeet (199);
