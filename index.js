@@ -2,12 +2,14 @@
 
 function scuberGreetingForFeet (ride) {
   if (ride <= 400) {
-    return 'This one is on me!'
+    result = 'This one is on me!'
   } 
   
     else {
-    return 'This one is on you!';
+    result = 'This one is on you!';
   }
+  
+  return result
 }
 
 scuberGreetingForFeet (199);
