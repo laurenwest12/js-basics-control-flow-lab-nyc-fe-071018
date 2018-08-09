@@ -18,4 +18,3 @@ function scuberGreetingForFeet (ride) {
   return result
 }
 
-checkCity ? 
