@@ -7,3 +7,5 @@ function scuberGreetingForFeet (ride) {
     console.log('This one is on you!');
   }
 }
+
+function scuberGreetingForFeet (199);
