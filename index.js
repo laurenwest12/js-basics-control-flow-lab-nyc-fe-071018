@@ -18,4 +18,4 @@ function scuberGreetingForFeet (ride) {
   return result
 }
 
-ternaryCheckCity = 'New York City' ? 'Ok, sounds good'
+ternaryCheckCity = 'New York City' ? 'Ok, sounds good' : 'No go.'
