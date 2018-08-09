@@ -18,4 +18,6 @@ function scuberGreetingForFeet (ride) {
   return result
 }
 
-function 
+function ternaryCheckCity (city){
+  
+}
