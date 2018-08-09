@@ -18,4 +18,6 @@ function scuberGreetingForFeet (ride) {
   return result
 }
 
+scuberGreetingForFeet(199);
+
 ternaryCheckCity = 'New York City' ? 
