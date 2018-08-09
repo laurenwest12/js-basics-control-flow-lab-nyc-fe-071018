@@ -8,4 +8,4 @@ function scuberGreetingForFeet (ride) {
   }
 }
 
-let scuberGreetingForFeet (199);
+scuberGreetingForFeet (199);
